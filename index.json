@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "acl2025-modular-sentence-encoders",
+  "versions": [
+    {
+      "commit": "2c73b307a560ed8a9016546f51af5c930bb2d6a5",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:54:36.201093+00:00"
+    }
+  ]
+}
